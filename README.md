@@ -3,7 +3,7 @@
 ## GDG Bangalore Apps Script Meetup (Feb'18)
 
 * Slides: https://goo.gl/ZH8WQK
-* Code: Coming Soon
+* Code: [gdg-blr-feb-2018](https://github.com/arjun-rao/talks/tree/master/gdg-blr-feb-2018)
 
 ## GDG Bangalore DevFest (Oct' 17)
 
