@@ -20,7 +20,7 @@ function BTC(date) {
   var res = UrlFetchApp.fetch("https://api.coinbase.com/v2/prices/BTC-USD/spot?date=" + date, {
     headers: {
       "CB-VERSION": "2016-10-10",
-      Authorization: "Bearer abd90df5f27a7b170cd775abf89d632b350b7c1c9d53e08b340cd9832ce52c2c"
+      Authorization: "Bearer INSERT_TOKEN_HERE"
     }
   });
   var json = JSON.parse(res.getContentText());
